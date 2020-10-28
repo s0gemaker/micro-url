@@ -1,0 +1,26 @@
+{
+  "name": "micro-url",
+  "version": "1.0.0",
+  "description": "A nodejs app to shorten url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0gemaker/micro-url.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0gemaker/micro-url/issues"
+  },
+  "homepage": "https://github.com/s0gemaker/micro-url#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nanoid": "^3.1.16"
+  }
+}
